@@ -1,0 +1,7 @@
+F:\实验室\Tools\King.Tools\King.Tools\bin\Debug\King.Tools.dll
+F:\实验室\Tools\King.Tools\King.Tools\bin\Debug\King.Tools.pdb
+F:\实验室\Tools\King.Tools\King.Tools\bin\Debug\EntityFramework.dll
+F:\实验室\Tools\King.Tools\King.Tools\bin\Debug\EntityFramework.SqlServer.dll
+F:\实验室\Tools\King.Tools\King.Tools\obj\Debug\King.Framework.csprojResolveAssemblyReference.cache
+F:\实验室\Tools\King.Tools\King.Tools\obj\Debug\King.Tools.dll
+F:\实验室\Tools\King.Tools\King.Tools\obj\Debug\King.Tools.pdb

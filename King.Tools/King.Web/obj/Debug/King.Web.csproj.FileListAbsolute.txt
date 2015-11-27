@@ -1,0 +1,7 @@
+F:\实验室\Tools\King.Tools\King.Web\bin\King.Web.dll
+F:\实验室\Tools\King.Tools\King.Web\bin\King.Web.pdb
+F:\实验室\Tools\King.Tools\King.Web\bin\King.Help.dll
+F:\实验室\Tools\King.Tools\King.Web\bin\King.Help.pdb
+F:\实验室\Tools\King.Tools\King.Web\obj\Debug\King.Web.csprojResolveAssemblyReference.cache
+F:\实验室\Tools\King.Tools\King.Web\obj\Debug\King.Web.dll
+F:\实验室\Tools\King.Tools\King.Web\obj\Debug\King.Web.pdb

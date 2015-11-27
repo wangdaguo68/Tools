@@ -1,0 +1,4 @@
+F:\实验室\Tools\King.Tools\King.Help\bin\Debug\King.Help.dll
+F:\实验室\Tools\King.Tools\King.Help\bin\Debug\King.Help.pdb
+F:\实验室\Tools\King.Tools\King.Help\obj\Debug\King.Help.dll
+F:\实验室\Tools\King.Tools\King.Help\obj\Debug\King.Help.pdb
